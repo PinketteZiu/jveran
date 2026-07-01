@@ -1,5 +1,7 @@
 body {
   color: whitesmoke;
   background-image: url('images/site_en_construction.png');
-  background-size: cover;
+  background-size: auto, auto;
+  background-position: center top;
+  background-repeat: no-repeat;
 }
